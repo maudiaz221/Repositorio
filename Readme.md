@@ -1,8 +1,8 @@
 # hola
-1 fer
+- fer
 
-2 juan
+- juan
 
-3 pepe
+- pepe
 ## otra cosa
 
